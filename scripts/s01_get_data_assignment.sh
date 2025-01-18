@@ -34,8 +34,7 @@ module load FastQC/0.11.9-Java-11
 module load MultiQC/1.12-foss-2021b
 
 # Base folder 
-local_folder="/Users/mspriggs/Documents/Applied_Bioinformatics/modules/bioinformatics_in_epigenetics_proteomics_and_metagenomics/metagenomics_assay"
-base_folder="${local_folder}/metagenomics"
+base_folder="/mnt/beegfs/home/s430452/soil_metagenomics/"
 
 # Start message
 echo "Started downloading FASTQ files from SRA"
