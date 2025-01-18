@@ -1,0 +1,13 @@
+sample-id	forward-absolute-filepath	reverse-absolute-filepath
+SRR1770820	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770820_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770820_2.fastq
+SRR1770818	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770818_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770818_2.fastq
+SRR1770815	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770815_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770815_2.fastq
+SRR1770812	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770812_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770812_2.fastq
+SRR1770809	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770809_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770809_2.fastq
+SRR1770806	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770806_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770806_2.fastq
+SRR1770805	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770805_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770805_2.fastq
+SRR1770804	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770804_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770804_2.fastq
+SRR1770798	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770798_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770798_2.fastq
+SRR1770797	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770797_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770797_2.fastq
+SRR1770794	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770794_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770794_2.fastq
+SRR1770793	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770793_1.fastq	/mnt/beegfs/home/s430452/soil_metagenomics/data/SRR1770793_2.fastq

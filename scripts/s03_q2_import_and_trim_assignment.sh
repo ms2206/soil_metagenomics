@@ -5,8 +5,7 @@
 
 #PBS -N s03_q2_import_and_trim
 #PBS -l nodes=1:ncpus=12
-#PBS -l walltime=00:30:00
-#PBS -q half_hour
+#PBS -q half_day
 #PBS -m abe
 #PBS -M matthew.spriggs.452@cranfield.ac.uk
 #===============
@@ -36,16 +35,19 @@ results_folder="${base_folder}/results"
 # make results folder
 mkdir -p "${results_folder}"
 
-# make source_file.txt
-awk -F, 'NR > 1 {print $1}' samplesheet.csv | \
-xargs -I {} sh -c \
-'echo {} \
-$(find "${base_folder}" -maxdepth 1 -name {}_1.fastq) \
-$(find "${base_folder}" -maxdepth 1 -name {}_2.fastq)' | \
-tr ' ' '\t' >> source_files_local.txt
+# add header to source_files_local.txt
+echo -e "sample-id\tforward-absolute-filepath\treverse-absolute-filepath" > "${data_folder}/source_files_local.txt"
+
+# make source_files_local using find to get pathnames
+
+while IFS=, read -r sample _; do
+  forward_file=$(find "${data_folder}" -maxdepth 1 -name "${sample}_1.fastq")
+  reverse_file=$(find "${data_folder}" -maxdepth 1 -name "${sample}_2.fastq")
+  echo -e "${sample}\t${forward_file}\t${reverse_file}"
+done < <(awk -F, 'NR > 1' "${data_folder}/samplesheet.csv") >> "${data_folder}/source_files_local.txt"  
 
 # source_files.txt filepath
-source_filepath="${base_folder}/scripts/source_files_local.txt"
+source_filepath="${data_folder}/source_files_local.txt"
 
 # Importing data to QIIME2. For more details: qiime tools import --help
 # Note that file "source_files.txt" should be prepared before you run this script!
