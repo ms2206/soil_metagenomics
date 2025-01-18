@@ -1,0 +1,520 @@
+FastQC & MultiQC
+Sat Jan 18 15:55:13 GMT 2025
+
+Started analysis of SRR1770793_1.fastq
+Approx 5% complete for SRR1770793_1.fastq
+Approx 10% complete for SRR1770793_1.fastq
+Approx 15% complete for SRR1770793_1.fastq
+Approx 20% complete for SRR1770793_1.fastq
+Approx 25% complete for SRR1770793_1.fastq
+Approx 30% complete for SRR1770793_1.fastq
+Approx 35% complete for SRR1770793_1.fastq
+Approx 40% complete for SRR1770793_1.fastq
+Approx 45% complete for SRR1770793_1.fastq
+Approx 50% complete for SRR1770793_1.fastq
+Approx 55% complete for SRR1770793_1.fastq
+Approx 60% complete for SRR1770793_1.fastq
+Approx 65% complete for SRR1770793_1.fastq
+Approx 70% complete for SRR1770793_1.fastq
+Approx 75% complete for SRR1770793_1.fastq
+Approx 80% complete for SRR1770793_1.fastq
+Approx 85% complete for SRR1770793_1.fastq
+Approx 90% complete for SRR1770793_1.fastq
+Approx 95% complete for SRR1770793_1.fastq
+Analysis complete for SRR1770793_1.fastq
+Started analysis of SRR1770793_2.fastq
+Approx 5% complete for SRR1770793_2.fastq
+Approx 10% complete for SRR1770793_2.fastq
+Approx 15% complete for SRR1770793_2.fastq
+Approx 20% complete for SRR1770793_2.fastq
+Approx 25% complete for SRR1770793_2.fastq
+Approx 30% complete for SRR1770793_2.fastq
+Approx 35% complete for SRR1770793_2.fastq
+Approx 40% complete for SRR1770793_2.fastq
+Approx 45% complete for SRR1770793_2.fastq
+Approx 50% complete for SRR1770793_2.fastq
+Approx 55% complete for SRR1770793_2.fastq
+Approx 60% complete for SRR1770793_2.fastq
+Approx 65% complete for SRR1770793_2.fastq
+Approx 70% complete for SRR1770793_2.fastq
+Approx 75% complete for SRR1770793_2.fastq
+Approx 80% complete for SRR1770793_2.fastq
+Approx 85% complete for SRR1770793_2.fastq
+Approx 90% complete for SRR1770793_2.fastq
+Approx 95% complete for SRR1770793_2.fastq
+Analysis complete for SRR1770793_2.fastq
+Started analysis of SRR1770794_1.fastq
+Approx 5% complete for SRR1770794_1.fastq
+Approx 10% complete for SRR1770794_1.fastq
+Approx 15% complete for SRR1770794_1.fastq
+Approx 20% complete for SRR1770794_1.fastq
+Approx 25% complete for SRR1770794_1.fastq
+Approx 30% complete for SRR1770794_1.fastq
+Approx 35% complete for SRR1770794_1.fastq
+Approx 40% complete for SRR1770794_1.fastq
+Approx 45% complete for SRR1770794_1.fastq
+Approx 50% complete for SRR1770794_1.fastq
+Approx 55% complete for SRR1770794_1.fastq
+Approx 60% complete for SRR1770794_1.fastq
+Approx 65% complete for SRR1770794_1.fastq
+Approx 70% complete for SRR1770794_1.fastq
+Approx 75% complete for SRR1770794_1.fastq
+Approx 80% complete for SRR1770794_1.fastq
+Approx 85% complete for SRR1770794_1.fastq
+Approx 90% complete for SRR1770794_1.fastq
+Approx 95% complete for SRR1770794_1.fastq
+Analysis complete for SRR1770794_1.fastq
+Started analysis of SRR1770794_2.fastq
+Approx 5% complete for SRR1770794_2.fastq
+Approx 10% complete for SRR1770794_2.fastq
+Approx 15% complete for SRR1770794_2.fastq
+Approx 20% complete for SRR1770794_2.fastq
+Approx 25% complete for SRR1770794_2.fastq
+Approx 30% complete for SRR1770794_2.fastq
+Approx 35% complete for SRR1770794_2.fastq
+Approx 40% complete for SRR1770794_2.fastq
+Approx 45% complete for SRR1770794_2.fastq
+Approx 50% complete for SRR1770794_2.fastq
+Approx 55% complete for SRR1770794_2.fastq
+Approx 60% complete for SRR1770794_2.fastq
+Approx 65% complete for SRR1770794_2.fastq
+Approx 70% complete for SRR1770794_2.fastq
+Approx 75% complete for SRR1770794_2.fastq
+Approx 80% complete for SRR1770794_2.fastq
+Approx 85% complete for SRR1770794_2.fastq
+Approx 90% complete for SRR1770794_2.fastq
+Approx 95% complete for SRR1770794_2.fastq
+Analysis complete for SRR1770794_2.fastq
+Started analysis of SRR1770797_1.fastq
+Approx 5% complete for SRR1770797_1.fastq
+Approx 10% complete for SRR1770797_1.fastq
+Approx 15% complete for SRR1770797_1.fastq
+Approx 20% complete for SRR1770797_1.fastq
+Approx 25% complete for SRR1770797_1.fastq
+Approx 30% complete for SRR1770797_1.fastq
+Approx 35% complete for SRR1770797_1.fastq
+Approx 40% complete for SRR1770797_1.fastq
+Approx 45% complete for SRR1770797_1.fastq
+Approx 50% complete for SRR1770797_1.fastq
+Approx 55% complete for SRR1770797_1.fastq
+Approx 60% complete for SRR1770797_1.fastq
+Approx 65% complete for SRR1770797_1.fastq
+Approx 70% complete for SRR1770797_1.fastq
+Approx 75% complete for SRR1770797_1.fastq
+Approx 80% complete for SRR1770797_1.fastq
+Approx 85% complete for SRR1770797_1.fastq
+Approx 90% complete for SRR1770797_1.fastq
+Approx 95% complete for SRR1770797_1.fastq
+Analysis complete for SRR1770797_1.fastq
+Started analysis of SRR1770797_2.fastq
+Approx 5% complete for SRR1770797_2.fastq
+Approx 10% complete for SRR1770797_2.fastq
+Approx 15% complete for SRR1770797_2.fastq
+Approx 20% complete for SRR1770797_2.fastq
+Approx 25% complete for SRR1770797_2.fastq
+Approx 30% complete for SRR1770797_2.fastq
+Approx 35% complete for SRR1770797_2.fastq
+Approx 40% complete for SRR1770797_2.fastq
+Approx 45% complete for SRR1770797_2.fastq
+Approx 50% complete for SRR1770797_2.fastq
+Approx 55% complete for SRR1770797_2.fastq
+Approx 60% complete for SRR1770797_2.fastq
+Approx 65% complete for SRR1770797_2.fastq
+Approx 70% complete for SRR1770797_2.fastq
+Approx 75% complete for SRR1770797_2.fastq
+Approx 80% complete for SRR1770797_2.fastq
+Approx 85% complete for SRR1770797_2.fastq
+Approx 90% complete for SRR1770797_2.fastq
+Approx 95% complete for SRR1770797_2.fastq
+Analysis complete for SRR1770797_2.fastq
+Started analysis of SRR1770798_1.fastq
+Approx 5% complete for SRR1770798_1.fastq
+Approx 10% complete for SRR1770798_1.fastq
+Approx 15% complete for SRR1770798_1.fastq
+Approx 20% complete for SRR1770798_1.fastq
+Approx 25% complete for SRR1770798_1.fastq
+Approx 30% complete for SRR1770798_1.fastq
+Approx 35% complete for SRR1770798_1.fastq
+Approx 40% complete for SRR1770798_1.fastq
+Approx 45% complete for SRR1770798_1.fastq
+Approx 50% complete for SRR1770798_1.fastq
+Approx 55% complete for SRR1770798_1.fastq
+Approx 60% complete for SRR1770798_1.fastq
+Approx 65% complete for SRR1770798_1.fastq
+Approx 70% complete for SRR1770798_1.fastq
+Approx 75% complete for SRR1770798_1.fastq
+Approx 80% complete for SRR1770798_1.fastq
+Approx 85% complete for SRR1770798_1.fastq
+Approx 90% complete for SRR1770798_1.fastq
+Approx 95% complete for SRR1770798_1.fastq
+Analysis complete for SRR1770798_1.fastq
+Started analysis of SRR1770798_2.fastq
+Approx 5% complete for SRR1770798_2.fastq
+Approx 10% complete for SRR1770798_2.fastq
+Approx 15% complete for SRR1770798_2.fastq
+Approx 20% complete for SRR1770798_2.fastq
+Approx 25% complete for SRR1770798_2.fastq
+Approx 30% complete for SRR1770798_2.fastq
+Approx 35% complete for SRR1770798_2.fastq
+Approx 40% complete for SRR1770798_2.fastq
+Approx 45% complete for SRR1770798_2.fastq
+Approx 50% complete for SRR1770798_2.fastq
+Approx 55% complete for SRR1770798_2.fastq
+Approx 60% complete for SRR1770798_2.fastq
+Approx 65% complete for SRR1770798_2.fastq
+Approx 70% complete for SRR1770798_2.fastq
+Approx 75% complete for SRR1770798_2.fastq
+Approx 80% complete for SRR1770798_2.fastq
+Approx 85% complete for SRR1770798_2.fastq
+Approx 90% complete for SRR1770798_2.fastq
+Approx 95% complete for SRR1770798_2.fastq
+Analysis complete for SRR1770798_2.fastq
+Started analysis of SRR1770804_1.fastq
+Approx 5% complete for SRR1770804_1.fastq
+Approx 10% complete for SRR1770804_1.fastq
+Approx 15% complete for SRR1770804_1.fastq
+Approx 20% complete for SRR1770804_1.fastq
+Approx 25% complete for SRR1770804_1.fastq
+Approx 30% complete for SRR1770804_1.fastq
+Approx 35% complete for SRR1770804_1.fastq
+Approx 40% complete for SRR1770804_1.fastq
+Approx 45% complete for SRR1770804_1.fastq
+Approx 50% complete for SRR1770804_1.fastq
+Approx 55% complete for SRR1770804_1.fastq
+Approx 60% complete for SRR1770804_1.fastq
+Approx 65% complete for SRR1770804_1.fastq
+Approx 70% complete for SRR1770804_1.fastq
+Approx 75% complete for SRR1770804_1.fastq
+Approx 80% complete for SRR1770804_1.fastq
+Approx 85% complete for SRR1770804_1.fastq
+Approx 90% complete for SRR1770804_1.fastq
+Approx 95% complete for SRR1770804_1.fastq
+Analysis complete for SRR1770804_1.fastq
+Started analysis of SRR1770804_2.fastq
+Approx 5% complete for SRR1770804_2.fastq
+Approx 10% complete for SRR1770804_2.fastq
+Approx 15% complete for SRR1770804_2.fastq
+Approx 20% complete for SRR1770804_2.fastq
+Approx 25% complete for SRR1770804_2.fastq
+Approx 30% complete for SRR1770804_2.fastq
+Approx 35% complete for SRR1770804_2.fastq
+Approx 40% complete for SRR1770804_2.fastq
+Approx 45% complete for SRR1770804_2.fastq
+Approx 50% complete for SRR1770804_2.fastq
+Approx 55% complete for SRR1770804_2.fastq
+Approx 60% complete for SRR1770804_2.fastq
+Approx 65% complete for SRR1770804_2.fastq
+Approx 70% complete for SRR1770804_2.fastq
+Approx 75% complete for SRR1770804_2.fastq
+Approx 80% complete for SRR1770804_2.fastq
+Approx 85% complete for SRR1770804_2.fastq
+Approx 90% complete for SRR1770804_2.fastq
+Approx 95% complete for SRR1770804_2.fastq
+Analysis complete for SRR1770804_2.fastq
+Started analysis of SRR1770805_1.fastq
+Approx 5% complete for SRR1770805_1.fastq
+Approx 10% complete for SRR1770805_1.fastq
+Approx 15% complete for SRR1770805_1.fastq
+Approx 20% complete for SRR1770805_1.fastq
+Approx 25% complete for SRR1770805_1.fastq
+Approx 30% complete for SRR1770805_1.fastq
+Approx 35% complete for SRR1770805_1.fastq
+Approx 40% complete for SRR1770805_1.fastq
+Approx 45% complete for SRR1770805_1.fastq
+Approx 50% complete for SRR1770805_1.fastq
+Approx 55% complete for SRR1770805_1.fastq
+Approx 60% complete for SRR1770805_1.fastq
+Approx 65% complete for SRR1770805_1.fastq
+Approx 70% complete for SRR1770805_1.fastq
+Approx 75% complete for SRR1770805_1.fastq
+Approx 80% complete for SRR1770805_1.fastq
+Approx 85% complete for SRR1770805_1.fastq
+Approx 90% complete for SRR1770805_1.fastq
+Approx 95% complete for SRR1770805_1.fastq
+Analysis complete for SRR1770805_1.fastq
+Started analysis of SRR1770805_2.fastq
+Approx 5% complete for SRR1770805_2.fastq
+Approx 10% complete for SRR1770805_2.fastq
+Approx 15% complete for SRR1770805_2.fastq
+Approx 20% complete for SRR1770805_2.fastq
+Approx 25% complete for SRR1770805_2.fastq
+Approx 30% complete for SRR1770805_2.fastq
+Approx 35% complete for SRR1770805_2.fastq
+Approx 40% complete for SRR1770805_2.fastq
+Approx 45% complete for SRR1770805_2.fastq
+Approx 50% complete for SRR1770805_2.fastq
+Approx 55% complete for SRR1770805_2.fastq
+Approx 60% complete for SRR1770805_2.fastq
+Approx 65% complete for SRR1770805_2.fastq
+Approx 70% complete for SRR1770805_2.fastq
+Approx 75% complete for SRR1770805_2.fastq
+Approx 80% complete for SRR1770805_2.fastq
+Approx 85% complete for SRR1770805_2.fastq
+Approx 90% complete for SRR1770805_2.fastq
+Approx 95% complete for SRR1770805_2.fastq
+Analysis complete for SRR1770805_2.fastq
+Started analysis of SRR1770806_1.fastq
+Approx 5% complete for SRR1770806_1.fastq
+Approx 10% complete for SRR1770806_1.fastq
+Approx 15% complete for SRR1770806_1.fastq
+Approx 20% complete for SRR1770806_1.fastq
+Approx 25% complete for SRR1770806_1.fastq
+Approx 30% complete for SRR1770806_1.fastq
+Approx 35% complete for SRR1770806_1.fastq
+Approx 40% complete for SRR1770806_1.fastq
+Approx 45% complete for SRR1770806_1.fastq
+Approx 50% complete for SRR1770806_1.fastq
+Approx 55% complete for SRR1770806_1.fastq
+Approx 60% complete for SRR1770806_1.fastq
+Approx 65% complete for SRR1770806_1.fastq
+Approx 70% complete for SRR1770806_1.fastq
+Approx 75% complete for SRR1770806_1.fastq
+Approx 80% complete for SRR1770806_1.fastq
+Approx 85% complete for SRR1770806_1.fastq
+Approx 90% complete for SRR1770806_1.fastq
+Approx 95% complete for SRR1770806_1.fastq
+Analysis complete for SRR1770806_1.fastq
+Started analysis of SRR1770806_2.fastq
+Approx 5% complete for SRR1770806_2.fastq
+Approx 10% complete for SRR1770806_2.fastq
+Approx 15% complete for SRR1770806_2.fastq
+Approx 20% complete for SRR1770806_2.fastq
+Approx 25% complete for SRR1770806_2.fastq
+Approx 30% complete for SRR1770806_2.fastq
+Approx 35% complete for SRR1770806_2.fastq
+Approx 40% complete for SRR1770806_2.fastq
+Approx 45% complete for SRR1770806_2.fastq
+Approx 50% complete for SRR1770806_2.fastq
+Approx 55% complete for SRR1770806_2.fastq
+Approx 60% complete for SRR1770806_2.fastq
+Approx 65% complete for SRR1770806_2.fastq
+Approx 70% complete for SRR1770806_2.fastq
+Approx 75% complete for SRR1770806_2.fastq
+Approx 80% complete for SRR1770806_2.fastq
+Approx 85% complete for SRR1770806_2.fastq
+Approx 90% complete for SRR1770806_2.fastq
+Approx 95% complete for SRR1770806_2.fastq
+Analysis complete for SRR1770806_2.fastq
+Started analysis of SRR1770809_1.fastq
+Approx 5% complete for SRR1770809_1.fastq
+Approx 10% complete for SRR1770809_1.fastq
+Approx 15% complete for SRR1770809_1.fastq
+Approx 20% complete for SRR1770809_1.fastq
+Approx 25% complete for SRR1770809_1.fastq
+Approx 30% complete for SRR1770809_1.fastq
+Approx 35% complete for SRR1770809_1.fastq
+Approx 40% complete for SRR1770809_1.fastq
+Approx 45% complete for SRR1770809_1.fastq
+Approx 50% complete for SRR1770809_1.fastq
+Approx 55% complete for SRR1770809_1.fastq
+Approx 60% complete for SRR1770809_1.fastq
+Approx 65% complete for SRR1770809_1.fastq
+Approx 70% complete for SRR1770809_1.fastq
+Approx 75% complete for SRR1770809_1.fastq
+Approx 80% complete for SRR1770809_1.fastq
+Approx 85% complete for SRR1770809_1.fastq
+Approx 90% complete for SRR1770809_1.fastq
+Approx 95% complete for SRR1770809_1.fastq
+Analysis complete for SRR1770809_1.fastq
+Started analysis of SRR1770809_2.fastq
+Approx 5% complete for SRR1770809_2.fastq
+Approx 10% complete for SRR1770809_2.fastq
+Approx 15% complete for SRR1770809_2.fastq
+Approx 20% complete for SRR1770809_2.fastq
+Approx 25% complete for SRR1770809_2.fastq
+Approx 30% complete for SRR1770809_2.fastq
+Approx 35% complete for SRR1770809_2.fastq
+Approx 40% complete for SRR1770809_2.fastq
+Approx 45% complete for SRR1770809_2.fastq
+Approx 50% complete for SRR1770809_2.fastq
+Approx 55% complete for SRR1770809_2.fastq
+Approx 60% complete for SRR1770809_2.fastq
+Approx 65% complete for SRR1770809_2.fastq
+Approx 70% complete for SRR1770809_2.fastq
+Approx 75% complete for SRR1770809_2.fastq
+Approx 80% complete for SRR1770809_2.fastq
+Approx 85% complete for SRR1770809_2.fastq
+Approx 90% complete for SRR1770809_2.fastq
+Approx 95% complete for SRR1770809_2.fastq
+Analysis complete for SRR1770809_2.fastq
+Started analysis of SRR1770812_1.fastq
+Approx 5% complete for SRR1770812_1.fastq
+Approx 10% complete for SRR1770812_1.fastq
+Approx 15% complete for SRR1770812_1.fastq
+Approx 20% complete for SRR1770812_1.fastq
+Approx 25% complete for SRR1770812_1.fastq
+Approx 30% complete for SRR1770812_1.fastq
+Approx 35% complete for SRR1770812_1.fastq
+Approx 40% complete for SRR1770812_1.fastq
+Approx 45% complete for SRR1770812_1.fastq
+Approx 50% complete for SRR1770812_1.fastq
+Approx 55% complete for SRR1770812_1.fastq
+Approx 60% complete for SRR1770812_1.fastq
+Approx 65% complete for SRR1770812_1.fastq
+Approx 70% complete for SRR1770812_1.fastq
+Approx 75% complete for SRR1770812_1.fastq
+Approx 80% complete for SRR1770812_1.fastq
+Approx 85% complete for SRR1770812_1.fastq
+Approx 90% complete for SRR1770812_1.fastq
+Approx 95% complete for SRR1770812_1.fastq
+Analysis complete for SRR1770812_1.fastq
+Started analysis of SRR1770812_2.fastq
+Approx 5% complete for SRR1770812_2.fastq
+Approx 10% complete for SRR1770812_2.fastq
+Approx 15% complete for SRR1770812_2.fastq
+Approx 20% complete for SRR1770812_2.fastq
+Approx 25% complete for SRR1770812_2.fastq
+Approx 30% complete for SRR1770812_2.fastq
+Approx 35% complete for SRR1770812_2.fastq
+Approx 40% complete for SRR1770812_2.fastq
+Approx 45% complete for SRR1770812_2.fastq
+Approx 50% complete for SRR1770812_2.fastq
+Approx 55% complete for SRR1770812_2.fastq
+Approx 60% complete for SRR1770812_2.fastq
+Approx 65% complete for SRR1770812_2.fastq
+Approx 70% complete for SRR1770812_2.fastq
+Approx 75% complete for SRR1770812_2.fastq
+Approx 80% complete for SRR1770812_2.fastq
+Approx 85% complete for SRR1770812_2.fastq
+Approx 90% complete for SRR1770812_2.fastq
+Approx 95% complete for SRR1770812_2.fastq
+Analysis complete for SRR1770812_2.fastq
+Started analysis of SRR1770815_1.fastq
+Approx 5% complete for SRR1770815_1.fastq
+Approx 10% complete for SRR1770815_1.fastq
+Approx 15% complete for SRR1770815_1.fastq
+Approx 20% complete for SRR1770815_1.fastq
+Approx 25% complete for SRR1770815_1.fastq
+Approx 30% complete for SRR1770815_1.fastq
+Approx 35% complete for SRR1770815_1.fastq
+Approx 40% complete for SRR1770815_1.fastq
+Approx 45% complete for SRR1770815_1.fastq
+Approx 50% complete for SRR1770815_1.fastq
+Approx 55% complete for SRR1770815_1.fastq
+Approx 60% complete for SRR1770815_1.fastq
+Approx 65% complete for SRR1770815_1.fastq
+Approx 70% complete for SRR1770815_1.fastq
+Approx 75% complete for SRR1770815_1.fastq
+Approx 80% complete for SRR1770815_1.fastq
+Approx 85% complete for SRR1770815_1.fastq
+Approx 90% complete for SRR1770815_1.fastq
+Approx 95% complete for SRR1770815_1.fastq
+Analysis complete for SRR1770815_1.fastq
+Started analysis of SRR1770815_2.fastq
+Approx 5% complete for SRR1770815_2.fastq
+Approx 10% complete for SRR1770815_2.fastq
+Approx 15% complete for SRR1770815_2.fastq
+Approx 20% complete for SRR1770815_2.fastq
+Approx 25% complete for SRR1770815_2.fastq
+Approx 30% complete for SRR1770815_2.fastq
+Approx 35% complete for SRR1770815_2.fastq
+Approx 40% complete for SRR1770815_2.fastq
+Approx 45% complete for SRR1770815_2.fastq
+Approx 50% complete for SRR1770815_2.fastq
+Approx 55% complete for SRR1770815_2.fastq
+Approx 60% complete for SRR1770815_2.fastq
+Approx 65% complete for SRR1770815_2.fastq
+Approx 70% complete for SRR1770815_2.fastq
+Approx 75% complete for SRR1770815_2.fastq
+Approx 80% complete for SRR1770815_2.fastq
+Approx 85% complete for SRR1770815_2.fastq
+Approx 90% complete for SRR1770815_2.fastq
+Approx 95% complete for SRR1770815_2.fastq
+Analysis complete for SRR1770815_2.fastq
+Started analysis of SRR1770818_1.fastq
+Approx 5% complete for SRR1770818_1.fastq
+Approx 10% complete for SRR1770818_1.fastq
+Approx 15% complete for SRR1770818_1.fastq
+Approx 20% complete for SRR1770818_1.fastq
+Approx 25% complete for SRR1770818_1.fastq
+Approx 30% complete for SRR1770818_1.fastq
+Approx 35% complete for SRR1770818_1.fastq
+Approx 40% complete for SRR1770818_1.fastq
+Approx 45% complete for SRR1770818_1.fastq
+Approx 50% complete for SRR1770818_1.fastq
+Approx 55% complete for SRR1770818_1.fastq
+Approx 60% complete for SRR1770818_1.fastq
+Approx 65% complete for SRR1770818_1.fastq
+Approx 70% complete for SRR1770818_1.fastq
+Approx 75% complete for SRR1770818_1.fastq
+Approx 80% complete for SRR1770818_1.fastq
+Approx 85% complete for SRR1770818_1.fastq
+Approx 90% complete for SRR1770818_1.fastq
+Approx 95% complete for SRR1770818_1.fastq
+Analysis complete for SRR1770818_1.fastq
+Started analysis of SRR1770818_2.fastq
+Approx 5% complete for SRR1770818_2.fastq
+Approx 10% complete for SRR1770818_2.fastq
+Approx 15% complete for SRR1770818_2.fastq
+Approx 20% complete for SRR1770818_2.fastq
+Approx 25% complete for SRR1770818_2.fastq
+Approx 30% complete for SRR1770818_2.fastq
+Approx 35% complete for SRR1770818_2.fastq
+Approx 40% complete for SRR1770818_2.fastq
+Approx 45% complete for SRR1770818_2.fastq
+Approx 50% complete for SRR1770818_2.fastq
+Approx 55% complete for SRR1770818_2.fastq
+Approx 60% complete for SRR1770818_2.fastq
+Approx 65% complete for SRR1770818_2.fastq
+Approx 70% complete for SRR1770818_2.fastq
+Approx 75% complete for SRR1770818_2.fastq
+Approx 80% complete for SRR1770818_2.fastq
+Approx 85% complete for SRR1770818_2.fastq
+Approx 90% complete for SRR1770818_2.fastq
+Approx 95% complete for SRR1770818_2.fastq
+Analysis complete for SRR1770818_2.fastq
+Started analysis of SRR1770820_1.fastq
+Approx 5% complete for SRR1770820_1.fastq
+Approx 10% complete for SRR1770820_1.fastq
+Approx 15% complete for SRR1770820_1.fastq
+Approx 20% complete for SRR1770820_1.fastq
+Approx 25% complete for SRR1770820_1.fastq
+Approx 30% complete for SRR1770820_1.fastq
+Approx 35% complete for SRR1770820_1.fastq
+Approx 40% complete for SRR1770820_1.fastq
+Approx 45% complete for SRR1770820_1.fastq
+Approx 50% complete for SRR1770820_1.fastq
+Approx 55% complete for SRR1770820_1.fastq
+Approx 60% complete for SRR1770820_1.fastq
+Approx 65% complete for SRR1770820_1.fastq
+Approx 70% complete for SRR1770820_1.fastq
+Approx 75% complete for SRR1770820_1.fastq
+Approx 80% complete for SRR1770820_1.fastq
+Approx 85% complete for SRR1770820_1.fastq
+Approx 90% complete for SRR1770820_1.fastq
+Approx 95% complete for SRR1770820_1.fastq
+Analysis complete for SRR1770820_1.fastq
+Started analysis of SRR1770820_2.fastq
+Approx 5% complete for SRR1770820_2.fastq
+Approx 10% complete for SRR1770820_2.fastq
+Approx 15% complete for SRR1770820_2.fastq
+Approx 20% complete for SRR1770820_2.fastq
+Approx 25% complete for SRR1770820_2.fastq
+Approx 30% complete for SRR1770820_2.fastq
+Approx 35% complete for SRR1770820_2.fastq
+Approx 40% complete for SRR1770820_2.fastq
+Approx 45% complete for SRR1770820_2.fastq
+Approx 50% complete for SRR1770820_2.fastq
+Approx 55% complete for SRR1770820_2.fastq
+Approx 60% complete for SRR1770820_2.fastq
+Approx 65% complete for SRR1770820_2.fastq
+Approx 70% complete for SRR1770820_2.fastq
+Approx 75% complete for SRR1770820_2.fastq
+Approx 80% complete for SRR1770820_2.fastq
+Approx 85% complete for SRR1770820_2.fastq
+Approx 90% complete for SRR1770820_2.fastq
+Approx 95% complete for SRR1770820_2.fastq
+Analysis complete for SRR1770820_2.fastq
+
+  /// MultiQC 🔍 | v1.12
+
+|           multiqc | MultiQC Version v1.26 now available!
+|           multiqc | Search path : /mnt/beegfs/home/s430452/soil_metagenomics/data
+|         searching | ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 100% 73/73  
+|            fastqc | Found 24 reports
+|           multiqc | Compressing plot data
+|           multiqc | Report      : multiqc_report.html
+|           multiqc | Data        : multiqc_data
+|           multiqc | MultiQC complete
+Done
+Sat Jan 18 15:56:14 GMT 2025
