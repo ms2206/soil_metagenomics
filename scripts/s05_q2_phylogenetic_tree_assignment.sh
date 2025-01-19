@@ -7,8 +7,7 @@
 
 #PBS -N s05_q2_phylogenetic_tree_assignment
 #PBS -l nodes=1:ncpus=12
-#PBS -l walltime=00:30:00
-#PBS -q half_hour
+#PBS -q six_hour
 #PBS -m abe
 #PBS -M matthew.spriggs.452@cranfield.ac.uk
 
