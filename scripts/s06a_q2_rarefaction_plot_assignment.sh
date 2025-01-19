@@ -1,5 +1,5 @@
 # QIIME2 - Rarefaction plot
-# Matthew Spriggs: 13Dec24
+# Matthew Spriggs: 19Jan25
 # Requires environment with QIIME2
 
 # Crescent2 script
@@ -9,7 +9,7 @@
 # PBS directives
 #---------------
 
-#PBS -N s06a_q2_rarefaction
+#PBS -N s06a_q2_rarefaction_assignment
 #PBS -l nodes=1:ncpus=12
 #PBS -l walltime=00:30:00
 #PBS -q half_hour
@@ -68,9 +68,6 @@ qiime diversity alpha-rarefaction \
 --p-max-depth ${max_depth} \
 --m-metadata-file "${base_folder}/data/tabsamplesheet.txt" \
 --o-visualization "${results_folder}/s06a_alpha_rarefaction.qzv"
-
-# remove tabseparated samplesheet - keep files clean!
-rm "${base_folder}/data/tabsamplesheet.txt"
 
 # Completion message
 echo ""
