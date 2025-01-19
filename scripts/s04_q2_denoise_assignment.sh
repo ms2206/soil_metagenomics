@@ -36,7 +36,7 @@ set -e
 module load QIIME2/2022.8
 
 # Base folder 
-base_folder="/mnt/beegfs/home/s430452/soil_metagenomics/"
+base_folder="/mnt/beegfs/home/s430452/soil_metagenomics"
 
 # Start message
 echo "QIIME2: Denoise"
