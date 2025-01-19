@@ -9,7 +9,7 @@
 # PBS directives
 #---------------
 
-#PBS -N s06b_q2_apply_rarefactation_assignment
+#PBS -N s06b_q2_apply_rarefaction_assignment
 #PBS -l nodes=1:ncpus=12
 #PBS -l walltime=00:30:00
 #PBS -q half_hour
@@ -46,6 +46,7 @@ base_folder="/mnt/beegfs/home/s430452/soil_metagenomics"
 
 # Folders
 results_folder="${base_folder}/results"
+metadata_folder="${results_folder}/exported_metadata"
 
 # pull min non-chimeric reads from sample-frequency-detail.csv
 min_depth=$(awk -F, 'NR >1 {print int($2)}' "${metadata_folder}/sample-frequency-detail.csv" | sort | head -n1)
