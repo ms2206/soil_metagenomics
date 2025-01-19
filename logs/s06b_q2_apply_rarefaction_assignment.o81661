@@ -1,0 +1,8 @@
+QIIME2: Apply rarefaction
+Sun Jan 19 16:34:19 GMT 2025
+
+
+min-depth: 11413
+Saved FeatureTable[Frequency] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s06b_rarefied_table.qza
+
+Done

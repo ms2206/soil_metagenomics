@@ -1,0 +1,33 @@
+QIIME2: Calculate multiple diversity metrics
+Sun Jan 19 16:52:18 GMT 2025
+
+
+min-depth: 11413
+Saved FeatureTable[Frequency] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/rarefied_table.qza
+Saved SampleData[AlphaDiversity] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/faith_pd_vector.qza
+Saved SampleData[AlphaDiversity] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/observed_features_vector.qza
+Saved SampleData[AlphaDiversity] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/shannon_vector.qza
+Saved SampleData[AlphaDiversity] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/evenness_vector.qza
+Saved DistanceMatrix to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/unweighted_unifrac_distance_matrix.qza
+Saved DistanceMatrix to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/weighted_unifrac_distance_matrix.qza
+Saved DistanceMatrix to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/jaccard_distance_matrix.qza
+Saved DistanceMatrix to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/bray_curtis_distance_matrix.qza
+Saved PCoAResults to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/unweighted_unifrac_pcoa_results.qza
+Saved PCoAResults to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/weighted_unifrac_pcoa_results.qza
+Saved PCoAResults to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/jaccard_pcoa_results.qza
+Saved PCoAResults to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/bray_curtis_pcoa_results.qza
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/unweighted_unifrac_emperor.qzv
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/weighted_unifrac_emperor.qzv
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/jaccard_emperor.qzv
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/bray_curtis_emperor.qzv
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/observed_features_vector.qza as AlphaDiversityDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/observed_features_vector
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/faith_pd_vector.qza as AlphaDiversityDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/faith_pd_vector
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/evenness_vector.qza as AlphaDiversityDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/evenness_vector
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/shannon_vector.qza as AlphaDiversityDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/shannon_vector
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/unweighted_unifrac_distance_matrix.qza as DistanceMatrixDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/unweighted_unifrac_distance_matrix
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/weighted_unifrac_distance_matrix.qza as DistanceMatrixDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/weighted_unifrac_distance_matrix
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/jaccard_distance_matrix.qza as DistanceMatrixDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/jaccard_distance_matrix
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/bray_curtis_distance_matrix.qza as DistanceMatrixDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s07_diversity_metrics/bray_curtis_distance_matrix
+
+Done
+Sun Jan 19 16:54:16 GMT 2025
