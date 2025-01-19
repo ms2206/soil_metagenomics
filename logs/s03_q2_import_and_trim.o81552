@@ -1,0 +1,6 @@
+Imported /mnt/beegfs/home/s430452/soil_metagenomics/data/source_files_local.txt as PairedEndFastqManifestPhred33V2 to /mnt/beegfs/home/s430452/soil_metagenomics/results/s03_pe_dmx.qza
+Saved SampleData[PairedEndSequencesWithQuality] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s03_pe_dmx_trim.qza
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s03_pe_dmx_trim.qzv
+
+Done
+Sat Jan 18 17:22:41 GMT 2025
