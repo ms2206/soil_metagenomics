@@ -53,6 +53,12 @@ max_depth=$(awk -F, 'NR >1 {print int($2)}' "${metadata_folder}/sample-frequency
 echo ""
 echo "max-depth: ${max_depth}"
 
+# The samplesheet.csv needs to be tab separated
+# The header SRA_ID should be #SampleID
+tr ',' '\t' < "${base_folder}/data/samplesheet.csv" \
+| awk 'NR==1{sub(/SRA_ID/, "#SampleID")}{print}' \
+> "${base_folder}/data/tabsamplesheet.txt"
+
 # Alpha rarefaction
 # Max-depth based on max non-chimeric reads in s04_stats_dada2.qzv
 # Download csv from qiime2view to get exact numeric rarefaction thresholds
@@ -60,8 +66,11 @@ qiime diversity alpha-rarefaction \
 --i-table "${results_folder}/s04_table_dada2.qza" \
 --i-phylogeny "${results_folder}/s05_rooted_tree.qza" \
 --p-max-depth ${max_depth} \
---m-metadata-file "${base_folder}/data/samplesheet.csv" \
+--m-metadata-file "${base_folder}/data/tabsamplesheet.txt" \
 --o-visualization "${results_folder}/s06a_alpha_rarefaction.qzv"
+
+# remove tabseparated samplesheet - keep files clean!
+rm "${base_folder}/data/tabsamplesheet.txt"
 
 # Completion message
 echo ""
