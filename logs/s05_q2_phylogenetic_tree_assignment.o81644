@@ -1,0 +1,12 @@
+QIIME2: Phylogenetic tree
+Sun Jan 19 14:29:22 GMT 2025
+
+Saved FeatureData[AlignedSequence] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_aligned_rep_seqs.qza
+Saved FeatureData[AlignedSequence] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_masked_aligned_rep_seqs.qza
+Saved Phylogeny[Unrooted] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_unrooted_tree.qza
+Saved Phylogeny[Rooted] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_rooted_tree.qza
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_rooted_tree.qza as NewickDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_phylogenetic_tree
+Exported /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_masked_aligned_rep_seqs.qza as AlignedDNASequencesDirectoryFormat to directory /mnt/beegfs/home/s430452/soil_metagenomics/results/s05_phylogenetic_tree
+
+Done
+Sun Jan 19 14:32:11 GMT 2025
