@@ -64,6 +64,11 @@ qiime feature-table summarize \
 --i-table "${results_folder}/s04_table_dada2.qza" \
 --o-visualization "${results_folder}/s04_table_dada2.qzv"
 
+# Download metadata.tsv file
+qiime tools export \
+--input-path "${results_folder}/s04_table_dada2.qzv" \
+--output-path "${results_folder}/exported_metadata"
+
 # Visualise statistics
 qiime metadata tabulate \
 --m-input-file "${results_folder}/s04_stats_dada2.qza" \
