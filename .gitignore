@@ -1,2 +1,5 @@
 # Ignore all .fastq files
 *.fastq
+
+# Ignore fasta zip files
+*fastqc.zip
