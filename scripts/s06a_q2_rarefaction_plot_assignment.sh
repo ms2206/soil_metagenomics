@@ -60,7 +60,7 @@ qiime diversity alpha-rarefaction \
 --i-table "${results_folder}/s04_table_dada2.qza" \
 --i-phylogeny "${results_folder}/s05_rooted_tree.qza" \
 --p-max-depth ${max_depth} \
---m-metadata-file "samples.txt" \
+--m-metadata-file "${base_folder}/data/samplesheet.csv" \
 --o-visualization "${results_folder}/s06a_alpha_rarefaction.qzv"
 
 # Completion message
