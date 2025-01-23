@@ -1,0 +1,13 @@
+﻿#SampleID	Name	Group
+SRR1770820	ba1	burrawan_au
+SRR1770818	ba2	burrawan_au
+SRR1770815	ba3	burrawan_au
+SRR1770812	ba4	burrawan_au
+SRR1770809	ba5	burrawan_au
+SRR1770806	ba6	burrawan_au
+SRR1770805	gz1	gilb_za
+SRR1770804	gz2	gilb_za
+SRR1770798	gz3	gilb_za
+SRR1770797	gz4	gilb_za
+SRR1770794	gz5	gilb_za
+SRR1770793	gz6	gilb_za
