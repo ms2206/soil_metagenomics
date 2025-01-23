@@ -9,9 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Following `s11_q2_to_R.html`
-
-
 # Install packages
 Should be done once, so commented
 ```{r}
@@ -53,7 +50,9 @@ rooted_tree_qza=file.path(data_folder,"s05_rooted_tree.qza")
 taxonomy_qza=file.path(data_folder,"s10_taxonomy.qza")
 
 scripts_folder=paste0(root_dir, '/scripts')
-metadata_tsv=file.path(scripts_folder,"samples.txt")
+tsv_foler=paste0(root_dir, '/data')
+
+metadata_tsv=file.path(tsv_foler,"tabsamplesheet.txt")
 ```
 
 # Import of QIIME2 artifacts & metadata to R
