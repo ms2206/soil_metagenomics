@@ -3,7 +3,7 @@
 # Matthew Spriggs: 13Dec24
 # Requires environment with QIIME2
 
-# Assumes that the resources folder contains the claccifier recommended by QIIME2 for 515F/806R 16S region.
+# Assumes that the resources folder contains the classifier recommended by QIIME2 for 515F/806R 16S region.
 # The classifier was trained on Greengenes 13.8 99% OTUs ( see https://docs.qiime2.org/2022.8/data-resources/ )
 # The classifier was downloaded once using the code like this:
 # cd "${resources_folder}"
@@ -69,12 +69,6 @@ qiime taxa barplot \
 --m-metadata-file "${base_folder}/data/tabsamplesheet.txt" \
 --o-visualization "${results_folder}/s10_taxa_bar_plot.qzv"
 
-# tabsamplesheet is an intermediate file, created in s06 of samplesheet.csv
-# it can be deleted here
-
-echo ""
-echo "Cleaning up intermediate file(s)"
-rm "${base_folder}/data/tabsamplesheet.txt"
 
 # Completion message
 echo ""
