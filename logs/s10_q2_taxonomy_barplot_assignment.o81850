@@ -1,0 +1,11 @@
+QIIME2: Taxonomy barplot
+Thu Jan 23 13:30:44 GMT 2025
+
+Saved FeatureData[Taxonomy] to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s10_taxonomy.qza
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s10_taxonomy.qzv
+Saved Visualization to: /mnt/beegfs/home/s430452/soil_metagenomics/results/s10_taxa_bar_plot.qzv
+
+Cleaning up intermediate file(s)
+
+Done
+Thu Jan 23 13:34:10 GMT 2025
