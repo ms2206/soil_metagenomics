@@ -10,28 +10,25 @@
 # To visualize and statistically analyze the relationships between microbial 
 # communities in different sample groups.
 
-# PAckage notifications less verbos
-# Sys.setenv(R_REMOTES_NO_UPDATE = "true")
-
 # Install Packages
-# install.packages("devtools")
-# devtools::install_github("jbisanz/qiime2R")
-# 
-# install.packages("BiocManager", update = FALSE)
-# 
-# BiocManager::install("phyloseq", update = FALSE)
-# BiocManager::install("vegan", update = FALSE)
-# 
-# install.packages("dendextend")
-# install.packages("remotes")
-# 
-# remotes::install_github("jbisanz/qiime2R")
+# Install CRAN packages if not installed
+for (pkg in c("devtools", "BiocManager", "dendextend", "remotes")) {
+  if (!requireNamespace(pkg, quietly = TRUE)) install.packages(pkg, ask = FALSE)
+}
+
+# Install Bioconductor packages if not installed
+for (pkg in c("phyloseq", "vegan")) {
+  if (!requireNamespace(pkg, quietly = TRUE)) BiocManager::install(pkg, update = FALSE, ask = FALSE)
+}
+
+# Install GitHub package if not installed
+if (!requireNamespace("qiime2R", quietly = TRUE)) remotes::install_github("jbisanz/qiime2R", quiet = TRUE)
+
 
 # Packages are quite verbos;
 suppressPackageStartupMessages(suppressWarnings(library(qiime2R))) # for importing QIIME2 artifacts
 suppressPackageStartupMessages(suppressWarnings(library(phyloseq))) # for handling phyloseq objects
 suppressPackageStartupMessages(suppressWarnings(library(vegan))) # for calculating PERMANOVA using ad
-onis2()
 suppressPackageStartupMessages(suppressWarnings(library(dendextend))) # for colouring samples dendrogram
 
 # Load current wd
@@ -51,6 +48,11 @@ scripts_folder=paste0(root_dir, '/scripts')
 tsv_foler=paste0(root_dir, '/data')
 metadata_tsv=file.path(tsv_foler,"tabsamplesheet.txt")
 
+# Remove '#' from first columns - causing parsing errors with qza_to_phyloseq obj.
+lines <- readLines(metadata_tsv)
+lines[1] <- sub("^#", "", lines[1])
+writeLines(lines, metadata_tsv)
+
 # Import to phyloseq data type using qiime2R package. Then data could be further
 # extracted from the phyloseq object, if necessary.
 
@@ -64,16 +66,16 @@ distance_matrix <- distance(phy, method="bray")
 bray_clust <- hclust(distance_matrix, method="ward.D2")
 bray_dend <- as.dendrogram(bray_clust, hang=0.1)
 
-colour_labels <- c('red','green','blue')[ match(as.factor(metadata$group),
-                                                c('frue_ch','mtca_au','ukul_za') ) ]
+group_names <- unique(metadata$Group)
+group_colors <- setNames(c("red", "blue"), group_names) 
+colour_labels <- group_colors[as.factor(metadata$Group)]
 labels_colors(bray_dend) <- colour_labels
 
 plot(bray_dend, main="Samples dendrogram", ylab="Distances")
 
-legend("topright",
-       legend=c('frue_ch','mtca_au','ukul_za'),
-       col=c('red','green','blue'),
-       bty="n",lty=1, cex=0.8)
+legend("topright", legend = group_names, 
+       fill = group_colors, title = "Groups")
+
 
 # Run PERMANOVA
 adonis2(distance_matrix ~ Group, data = metadata, permutations=100000)
