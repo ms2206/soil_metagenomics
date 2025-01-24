@@ -7,7 +7,7 @@
 # PBS directives that you should review and change if needed
 #-----------------------------------------------------------
 
-#PBS -N S11_R_launcher
+#PBS -N s11_R_launcher
 #PBS -l nodes=1:ncpus=6
 #PBS -l walltime=00:30:00
 #PBS -q half_hour
