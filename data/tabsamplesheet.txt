@@ -1,4 +1,4 @@
-﻿#SampleID	Name	Group
+﻿SampleID	Name	Group
 SRR1770820	ba1	burrawan_au
 SRR1770818	ba2	burrawan_au
 SRR1770815	ba3	burrawan_au

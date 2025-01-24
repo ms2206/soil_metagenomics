@@ -40,6 +40,15 @@ echo ""
 # Load required module
 module load R/4.2.1-foss-2022a
 
+# Folders
+base_folder="/mnt/beegfs/home/s430452/soil_metagenomics"
+results_folder="${base_folder}/results"
+
+# tabsamplesheet header has a '#' charecter that is causing
+# parse issues into R using read.table().
+# remove in place the '#'
+sed -i '' '1s/#//' "${base_folder}/data/tabsamplesheet.txt"
+
 # Launch R script
 Rscript s11_q2_to_R_assignment.rmd
 
