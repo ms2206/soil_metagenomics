@@ -28,6 +28,7 @@
 # remotes::install_github("jbisanz/qiime2R")
 
 library(dendextend)
+library(qiime2R)
 
 # Packages are quite verbos;
 suppressPackageStartupMessages(suppressWarnings(library(qiime2R))) # for importing QIIME2 artifacts
