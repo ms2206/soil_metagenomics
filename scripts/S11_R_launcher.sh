@@ -7,7 +7,7 @@
 # PBS directives that you should review and change if needed
 #-----------------------------------------------------------
 
-#PBS -N s09_dif_peaks
+#PBS -N S11_R_launcher
 #PBS -l nodes=1:ncpus=6
 #PBS -l walltime=00:30:00
 #PBS -q half_hour
@@ -41,7 +41,7 @@ echo ""
 module load R/4.2.1-foss-2022a
 
 # Launch R script
-Rscript S11_q2_to_R_assignment.rmd
+Rscript s11_q2_to_R_assignment.rmd
 
 # Completion message
 echo ""
