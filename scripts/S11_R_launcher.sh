@@ -1,6 +1,6 @@
 #!/bin/bash
 # Metagenomics analysis: S11_q2_to_R_assignment
-# Laucher for R script S11_q2_to_R_assignment.rmd
+# Laucher for R script S11_q2_to_R_assignment.R
 # This script takes < 1 min to run
 # Matthew Spriggs 25Jan2025
 
@@ -43,14 +43,15 @@ module load R/4.2.1-foss-2022a
 # Folders
 base_folder="/mnt/beegfs/home/s430452/soil_metagenomics"
 results_folder="${base_folder}/results"
+samplesheet="${base_folder}/data/tabsamplesheet.txt"
 
 # tabsamplesheet header has a '#' charecter that is causing
 # parse issues into R using read.table().
 # remove in place the '#'
-sed -i '' '1s/#//' "${base_folder}/data/tabsamplesheet.txt"
+sed -i '' '1s/#//' "${samplesheet}"
 
 # Launch R script
-Rscript s11_q2_to_R_assignment.rmd
+Rscript s11_q2_to_R_assignment.R 
 
 # Completion message
 echo ""
