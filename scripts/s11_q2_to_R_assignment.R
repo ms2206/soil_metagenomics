@@ -11,21 +11,21 @@
 # communities in different sample groups.
 
 # PAckage notifications less verbos
-Sys.setenv(R_REMOTES_NO_UPDATE = "true")
+# Sys.setenv(R_REMOTES_NO_UPDATE = "true")
 
 # Install Packages
-install.packages("devtools")
-devtools::install_github("jbisanz/qiime2R")
-
-install.packages("BiocManager", update = FALSE)
-
-BiocManager::install("phyloseq", update = FALSE)
-BiocManager::install("vegan", update = FALSE)
-
-install.packages("dendextend")
-install.packages("remotes")
-
-remotes::install_github("jbisanz/qiime2R")
+# install.packages("devtools")
+# devtools::install_github("jbisanz/qiime2R")
+# 
+# install.packages("BiocManager", update = FALSE)
+# 
+# BiocManager::install("phyloseq", update = FALSE)
+# BiocManager::install("vegan", update = FALSE)
+# 
+# install.packages("dendextend")
+# install.packages("remotes")
+# 
+# remotes::install_github("jbisanz/qiime2R")
 
 library(dendextend)
 
