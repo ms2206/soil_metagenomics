@@ -1,9 +1,14 @@
 ---
-title: "S11_q2_to_R"
+title: "S11_q2_to_R_assignment"
 author: "Matthew Spriggs"
 date: "2025-01-23"
 output: html_document
 ---
+
+
+This script imports QIIME 2 artifacts and metadata into R, converts them into a phyloseq object, and performs hierarchical clustering and PERMANOVA analysis. To visualize and statistically analyze the relationships between microbial communities in different sample groups.
+
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
