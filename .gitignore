@@ -7,3 +7,6 @@
 # Ignore classifier recommended by QIIME2 for 515F/806R 16S region.
 # see https://docs.qiime2.org/2022.8/data-resources/
 gg-13-8-99-515-806-nb-classifier.qza
+
+# Ignore large files
+s03_pe_dmx_trim.qza
