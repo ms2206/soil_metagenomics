@@ -71,11 +71,14 @@ group_colors <- setNames(c("red", "blue"), group_names)
 colour_labels <- group_colors[as.factor(metadata$Group)]
 labels_colors(bray_dend) <- colour_labels
 
+png(filename = paste0(data_folder, '/sample_dendrogram.png'), width = 800, height = 600)
+
 plot(bray_dend, main="Samples dendrogram", ylab="Distances")
 
 legend("topright", legend = group_names, 
        fill = group_colors, title = "Groups")
 
+dev.off()
 
 # Run PERMANOVA
 adonis2(distance_matrix ~ Group, data = metadata, permutations=100000)
